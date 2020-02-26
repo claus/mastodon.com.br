@@ -100,11 +100,7 @@ Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um 
 ### Nosso time de moderação
 
 Nosso time de moderação atual é composto por
-[@<span>renatolond</span>](https://masto.donte.com.br/@renatolond),
-[@<span>abacaxi</span>](https://masto.donte.com.br/@abacaxi),
-[@<span>anna</span>](https://masto.donte.com.br/@anna),
-[@<span>amber</span>](https://masto.donte.com.br/@amber) e
-[@<span>ohtori</span>](https://masto.donte.com.br/@ohtori)
+[@<span>claus</span>](https://mastodon.com.br/@claus)
 
 ### Federação
 
