@@ -1,6 +1,6 @@
-O mastodon.com.br é uma [instância do Mastodon](https://joinmastodon.org) voltada para pessoas Brasileiras, mas pessoas que não falam português ou que postam em mais de uma lingua são igualmente bem vindas.
+O mastodon.com.br é uma [instância do Mastodon](https://joinmastodon.org) voltada para para falantes de português brasileiro.
 
-Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.
+Essa instância é **moderada**. Tentamos ser um espaço feminista, antiracista, anticolonialista, antifacista, acessível e inclusivo à pessoas trans e não-binárias.
 
 Para mantermos esse espaço dessa maneira, qualquer usuário do mastodon.com.br precisa seguir o código de conduta aqui descrito. Se você acha que essa instância não é pra você, dê uma olhada [nossa sugestão de outras instâncias de falantes de português](https://instances.social/list#lang=pt&allowed=&prohibited=nudity_nocw,pornography_nocw,spam,advertising,spoilers_nocw&users=).
 
@@ -15,6 +15,7 @@ Contas que engajarem nos seguintes padrões de comportamento serão suspensas se
 *   Pornografia infantil.
 *   Conteúdo que fetichiza menores de idade (i.e. lolicon, shotacon).
 *   Apologia ao nazismo ou fascismo.
+*   Discurso que incentive práticas nocivas ao bem-estar fisico ou mental como disturbios alimentares (pró-ana, pró-mia), automutilação (pro-cutting) e suicídio.
 
 #### Discurso de ódio e/ou inflamatório, como:
 
@@ -49,13 +50,13 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 
 ### Política de aviso de conteúdo
 
-O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo"
+O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês "content warning" ou "CW".
 
 TODO: EXPLAIN CW.
 
-O uso de aviso de conteúdo é obrigatorio em postagens que:
+O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 
-*   Mencionam assuntos traumáticos (por exemplo: estupro, violência).
+*   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
 *   Contenham enredo de séries, jogos e filmes (por exemplo: 'Spoilers de Power Rangers S01E01').
 *   Contenham nudez, conteúdo sexual e imagens de violência (mesmo que em representações artísticas).
 *   Descrições explícitas de sexo ou conteúdo sexual em [postagens públicas](#privacidade).
@@ -63,11 +64,22 @@ O uso de aviso de conteúdo é obrigatorio em postagens que:
 
 O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens envolvendo os seguintes assuntos ou imagens relacionadas:
 
-*   Comida
 *   Política
+*   Doenças e distúrbios mentais
+*   Distúrbios alimentares
+*   Relacionamentos abusivos
+*   Comida
 *   Álcool, cigarro e outras drogas
 *   Aranhas, répteis e outras coisas que podem causar desconforto em pessoas que possuem fobias
 *   Retratos de si, principalmente aquelas com contato ocular direto
+
+Lembre-se, os posts são abertos, a não ser que se escolha postar apenas para seguidores, e nem todo mundo curte o que você curte. Tenha bom senso e use o aviso de conteúdo em assuntos que você gosta muito mas que pode incomodar outras pessoas, como esportes, programas de tv, etc.
+
+É simples, rápido e indolor.
+
+### Inatividade
+
+Contas inativas por mais de um ano estão sujeitas a serem removidas da plataforma. Enviaremos um aviso alguns dias antes, dando a possibilidade que a pessoa possa manter a conta.
 
 ### Sobre níveis de privacidade
 
@@ -75,7 +87,7 @@ O uso de aviso de conteúdo não é obrigatório, mas sugerido, em postagens env
 
 *   Somente seguidores: A publicação é enviada para todos os seguidores, não aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
 *   Não listada: A publicação é enviada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, não aparece em buscas por hashtags.
-*   Pública: É enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
+*   Pública: A publicação é enviada para as timelines "local" e "pública", compartilhadas por outros membros da instância, é enviadada para todos os seguidores, aparece na página pública de perfil da pessoa que postou, aparece em buscas por hashtags.
 
 ### Sobre Crossposters
 
@@ -100,17 +112,5 @@ Respondemos de maneira privada à todas as denúncias que recebemos, fazendo um 
 ### Nosso time de moderação
 
 Nosso time de moderação atual é composto por
-[@<span>claus</span>](https://mastodon.com.br/@claus)
-
-### Federação
-
-Por ser um software descentralizado, um servidor do Mastodon, chamado instância, pode se comunicar com outras instâncias.
-
-O mastodon.com.br federa com a maioria das instâncias. As exceções podem ser vistas aqui: [lista de bloqueios e silenciamentos](https://github.com/masto-donte-com-br/InstanceInternals/blob/master/Blocklist.md).
-
-## Diferenças do mastodon.com.br
-
-O mastodon.com.br roda uma versão ligeiramente modificada do Mastodon, com as seguintes modificações:
-
-*   Máximo de 500 caracteres na bio
-*   Possibilidade de publicar toots visíveis somente para membros da instância (toots que não enviados para outras instâncias)
+[@<span>claus</span>](https://mastodon.com.br/@claus) e
+[@<span>dani</span>](https://mastodon.com.br/@Dani)
