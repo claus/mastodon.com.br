@@ -52,8 +52,6 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 
 O Mastodon possui uma funcionalidade chamada de "aviso de conteúdo", em inglês "content warning" ou "CW".
 
-TODO: EXPLAIN CW.
-
 O uso de aviso de conteúdo é *obrigatorio* em postagens que:
 
 *   Mencionam assuntos traumáticos (por exemplo: abuso, estupro, violência).
